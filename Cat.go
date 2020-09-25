@@ -1,11 +1,10 @@
-package main
+package model
 
 import "fmt"
 
 type Cat struct {
 	name string
 }
-
 
 func NewCat(name string) *Cat {
 	var c Cat

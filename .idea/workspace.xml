@@ -15,7 +15,11 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.14.7/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hwFrxFZGswhzX4kW0rl8Cnfwwr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,26 +64,30 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="568" y="260" width="261" height="264" key="Github.ShareDialog" timestamp="1601006725011">
+    <state x="568" y="260" width="261" height="264" key="Github.ShareDialog" timestamp="1601006931689">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state x="568" y="260" width="261" height="264" key="Github.ShareDialog/0.23.1366.745@0.23.1366.745" timestamp="1601006725011" />
-    <state width="1324" height="187" key="GridCell.Tab.0.bottom" timestamp="1601000079764">
+    <state x="568" y="260" width="261" height="264" key="Github.ShareDialog/0.23.1366.745@0.23.1366.745" timestamp="1601006931689" />
+    <state x="448" y="106" key="Github.UntrackedFilesDialog" timestamp="1601006942434">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.bottom/0.23.1366.745@0.23.1366.745" timestamp="1601000079764" />
-    <state width="1324" height="187" key="GridCell.Tab.0.center" timestamp="1601000079762">
+    <state x="448" y="106" key="Github.UntrackedFilesDialog/0.23.1366.745@0.23.1366.745" timestamp="1601006942434" />
+    <state width="1324" height="187" key="GridCell.Tab.0.bottom" timestamp="1601007086779">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.center/0.23.1366.745@0.23.1366.745" timestamp="1601000079762" />
-    <state width="1324" height="187" key="GridCell.Tab.0.left" timestamp="1601000079762">
+    <state width="1324" height="187" key="GridCell.Tab.0.bottom/0.23.1366.745@0.23.1366.745" timestamp="1601007086779" />
+    <state width="1324" height="187" key="GridCell.Tab.0.center" timestamp="1601007086778">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.left/0.23.1366.745@0.23.1366.745" timestamp="1601000079762" />
-    <state width="1324" height="187" key="GridCell.Tab.0.right" timestamp="1601000079763">
+    <state width="1324" height="187" key="GridCell.Tab.0.center/0.23.1366.745@0.23.1366.745" timestamp="1601007086778" />
+    <state width="1324" height="187" key="GridCell.Tab.0.left" timestamp="1601007086778">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.right/0.23.1366.745@0.23.1366.745" timestamp="1601000079763" />
+    <state width="1324" height="187" key="GridCell.Tab.0.left/0.23.1366.745@0.23.1366.745" timestamp="1601007086778" />
+    <state width="1324" height="187" key="GridCell.Tab.0.right" timestamp="1601007086779">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.right/0.23.1366.745@0.23.1366.745" timestamp="1601007086779" />
     <state x="192" y="34" key="SettingsEditor" timestamp="1601006683124">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
